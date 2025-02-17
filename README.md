@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheoPehe
-- 👀 I’m interested in Python, C#, Recat, Laravel
+- 👀 I’m interested in Python, C#, React, Laravel
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web development and Mobile Projet
 - 📫 How to reach me TheoPehe
